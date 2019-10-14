@@ -1,9 +1,11 @@
+
 package designpatterns.creational.singleton;
 
 
 public class SingletonThreadSafeDemo {
 
 	public static void main(String[] args) throws InterruptedException {
+		
 //		System.out.println(SingletonThreadSafe.getInstance());
 //		System.out.println(SingletonThreadSafe.getInstance());
 		

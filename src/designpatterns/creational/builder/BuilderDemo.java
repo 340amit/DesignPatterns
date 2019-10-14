@@ -1,3 +1,4 @@
+
 package designpatterns.creational.builder;
 
 public class BuilderDemo {
@@ -13,7 +14,6 @@ public class BuilderDemo {
 		System.out.println(lunchOrder.getDressing());
 		System.out.println(lunchOrder.getMeat());
 		
-//		StringBuilder x=new StringBuilder();
 
 	}
 
